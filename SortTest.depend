@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1570813239 source:c:\users\student235172\documents\cpp\pruwacka\sorttest\main.cpp
+	"inc/HeapSort.hh"
+	"inc/InsertionSort.hh"
+	"inc/MergeSort.hh"
+	"inc/QuickSort.hh"
+	"inc/IntArrayGenerator.hh"
+	<iostream>
+	<ctime>
+	<vector>
+
+1570794896 c:\users\student235172\documents\cpp\pruwacka\sorttest\inc\heapsort.hh
+
+1570808699 c:\users\student235172\documents\cpp\pruwacka\sorttest\inc\insertionsort.hh
+
+1570809473 c:\users\student235172\documents\cpp\pruwacka\sorttest\inc\mergesort.hh
+
+1570813120 c:\users\student235172\documents\cpp\pruwacka\sorttest\inc\quicksort.hh
+	<iostream>
+
+1570812491 source:c:\users\student235172\documents\cpp\pruwacka\sorttest\src\heapsort.cpp
+	"../inc/HeapSort.hh"
+
+1570808698 source:c:\users\student235172\documents\cpp\pruwacka\sorttest\src\insertionsort.cpp
+	"../inc/InsertionSort.hh"
+
+1570813144 source:c:\users\student235172\documents\cpp\pruwacka\sorttest\src\quicksort.cpp
+	"../inc/QuickSort.hh"
+
+1570809473 source:c:\users\student235172\documents\cpp\pruwacka\sorttest\src\mergesort.cpp
+	"../inc/MergeSort.hh"
+
+1570786459 c:\users\student235172\documents\cpp\pruwacka\sorttest\inc\intarraygenerator.hh
+	<cstdlib>
+	<iostream>
+	<vector>
+
